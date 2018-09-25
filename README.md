@@ -17,7 +17,7 @@ This was built starting with `create-react-app`, and then ejecting *everything*.
 ## Links:
 1. ["Getting started with create-react-app, Redux, React Router & Redux Thunk".](https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f)
 2. ["How to Use CSS Modules with Create React App."](https://medium.com/nulogy/how-to-use-css-modules-with-create-react-app-9e44bec2b5c2)
-3. [zeit.co](zeit.co)
+3. [zeit.co](https://zeit.co)
 
 ## Special Thanks to:
 - [Ricardo Perez](https://github.com/ricas07)
