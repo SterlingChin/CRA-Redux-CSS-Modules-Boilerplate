@@ -8,7 +8,6 @@ const Header = () => {
         <div className={styles.body} >
             <Link to="/">Home</Link>
             <Link to="/about-us">About</Link>
-            This is the header.
         </div>
     )
 };
