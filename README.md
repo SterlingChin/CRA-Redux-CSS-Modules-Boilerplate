@@ -1,4 +1,4 @@
-#React Boilerplate w/ Redux/React-Router/Redux-Thunk/CSS-Modules
+# React Boilerplate w/ Redux/React-Router/Redux-Thunk/CSS-Modules
 
 I put this together as a boilerplate for the best parts of React.  Here is a list of all the extras:
 1. React
