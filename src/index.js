@@ -4,8 +4,7 @@ import { Provider } from 'react-redux';
 import { ConnectedRouter } from 'connected-react-router';
 import store, { history } from './store';
 import App from './App';
-
-import styles from './index.css';
+import './index.css';
 
 const target = document.querySelector('#root')
 
