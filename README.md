@@ -1,4 +1,5 @@
 # React Boilerplate w/ Redux/React-Router/Redux-Thunk/CSS-Modules
+## Long name, but worth it!
 
 I put this together as a boilerplate for the best parts of React.  Here is a list of all the extras:
 1. React
@@ -7,7 +8,7 @@ I put this together as a boilerplate for the best parts of React.  Here is a lis
 4. [redux-thunk](https://www.npmjs.com/package/redux-thunk) (actions as functions)
 5. CSS-Modules (the only way to write css with react)
 
-I got tired of trying to combine projects that had one piece or another. I didn't have a single project that had all these pieces. So, I built a boilerplate. I followed 2 different articles to help build this out. But I had to make some changes to make everything work correctly.
+I got tired of trying to combine projects that had one piece or another. I didn't have a single project that had all these pieces. So, I built a boilerplate. I referenced 2 different articles (linked below) to help build this out, and I had to make some changes to make everything work correctly.
 
 
 This was built starting with `create-react-app`, and then ejecting *everything*.  I have used the `now` CLI to test and everything is working as expected.
