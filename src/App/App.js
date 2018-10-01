@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route } from 'react-router-dom';
-import Header from './Header/Header';
-import Home from './Home/Home';
-import About from './About/About';
+import Header from '../Header/Header';
+import Home from '../Home/Home';
+import About from '../About/About';
 
 const App = () => (
   <div>
